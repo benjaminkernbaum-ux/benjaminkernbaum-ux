@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey, I'm Benjamin Kernbaum
 
-<!--
-**benjaminkernbaum-ux/benjaminkernbaum-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Systems Architect | Full-Stack Developer | Automation Engineer
 
-Here are some ideas to get you started:
+Building intelligent agent ecosystems that automate real businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Build
+
+- 23-Agent AI Ecosystem
+- - StoicCRM
+  - - WhaleVault
+    - - FeTok
+      - - LuzDaPalavra
+        - - StoicTrading
+         
+          - ## Tech Stack
+         
+          - JS, Python, Supabase, n8n, etc.
+         
+          - ## Current Focus
+         
+          - - Scaling agents
+            - - Content automation
+              - - CRM optimization
+               
+                - ## Connect
+               
+                - - GitHub: benjaminkernbaum-ux
+                  - 
